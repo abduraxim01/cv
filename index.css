@@ -1,0 +1,35 @@
+body{
+  background-image: url("https://static.vecteezy.com/system/resources/previews/007/755/610/large_2x/close-up-of-nature-view-green-leaf-on-white-sky-and-blurred-greenery-background-under-sunlight-with-bokeh-and-copy-space-using-as-background-natural-plants-landscape-ecology-wallpaper-concept-free-photo.jpg");
+  background-size: cover !important;
+  background-color: rgb(255, 255, 255);
+  background-repeat: no-repeat;
+}
+.rasm{
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-top: 10%;
+}
+.fish{
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 50px;
+  rotate: -10deg;
+  text-shadow: 2px 2px 5px rgb(95, 94, 94);
+}
+.messengers {
+  padding-top: 2%;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.messenger{
+  padding-left: 10px;
+}
+.kasb{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  font-size: 20px;
+}
