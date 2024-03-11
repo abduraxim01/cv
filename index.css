@@ -6,11 +6,7 @@ body{
   background-color: rgb(243, 241, 241);
   background-repeat: no-repeat;
   overflow: hidden;
-}
-@media (max-width: 576px) {
-body{
   height: 100vh;
-}
 }
 .rasm{
   display: block;
